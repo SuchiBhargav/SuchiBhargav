@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hiiamsuchi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1z2X3u2m49Nx_sjvJQ6X_MfE2xvDNxD0T/view?usp=sharing](https://drive.google.com/file/d/1z2X3u2m49Nx_sjvJQ6X_MfE2xvDNxD0T/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/14tUUVK0FfMKsJFdKx8pK2Zcxc1QJOsYw/view?usp=sharing](https://drive.google.com/file/d/14tUUVK0FfMKsJFdKx8pK2Zcxc1QJOsYw/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
