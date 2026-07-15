@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Suchi</h1>
-<h3 align="center">A Passionate Engineer from Earth</h3>
+<h3 align="center">Building the Future, One Commit at a Time</h3>
 
 - 🌱 I’m currently learning **AI/computer vision**
 
