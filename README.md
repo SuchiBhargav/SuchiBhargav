@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SuchiBhargav?tab=repositories](https://github.com/SuchiBhargav?tab=repositories)
 
-- 📝 I regularly write articles on [https://www.opensourceforu.com/2023/07/ansible-awx-the-gui-configuration-management-automation-tool-you-will-love-to-use/](https://www.opensourceforu.com/2023/07/ansible-awx-the-gui-configuration-management-automation-tool-you-will-love-to-use/ https://medium.com/@hiiamsuchi)
+- 📝 I regularly write articles on [https://www.opensourceforu.com/2023/07/ansible-awx-the-gui-configuration-management-automation-tool-you-will-love-to-use/](https://www.opensourceforu.com/2023/07/ansible-awx-the-gui-configuration-management-automation-tool-you-will-love-to-use/)
 
 - 💬 Ask me about **Anything**
 
