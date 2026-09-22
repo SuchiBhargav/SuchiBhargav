@@ -1,11 +1,11 @@
 <h1 align="center">Hey 👋, I'm Suchi</h1>
 <h3 align="center">Building the Future, One Commit at a Time</h3>
 
-- 🌱 I’m currently learning **AI/computer vision**
+- 🌱 I’m currently learning **AI/Cloud**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SuchiBhargav?tab=repositories](https://github.com/SuchiBhargav?tab=repositories)
 
-- 📝 I regularly write articles on [https://www.opensourceforu.com/2023/07/ansible-awx-the-gui-configuration-management-automation-tool-you-will-love-to-use/](https://www.opensourceforu.com/2023/07/ansible-awx-the-gui-configuration-management-automation-tool-you-will-love-to-use/)
+- 📝 I regularly write articles on [https://medium.com/@hiiamsuchi](https://medium.com/@hiiamsuchi)
 
 - 💬 Ask me about **Anything**
 
